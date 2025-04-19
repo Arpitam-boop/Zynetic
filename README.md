@@ -45,3 +45,6 @@ git push origin main
 8. **Refresh Button** – Re-fetches weather data for the current city.  
 9. **Loader Animation** – Smooth animation during data fetch operations.  
 10. **UI Animations** – Basic transitions or animations using **Framer Motion** or **CSS** for an enhanced user experience.
+
+## Deployment 
+https://zynetic-asdb.vercel.app/
